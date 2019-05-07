@@ -1,0 +1,4 @@
+<!--pages/hidePhone/hidePhone.wxml-->
+<wxs src="subutil.wxs" module="tools"></wxs>
+<input type='number' placeholder='请输入手机号码' class='phone' bindinput='getPhone'></input>
+<text>{{tools.sub(phoneNumber,3,4)}}</text>

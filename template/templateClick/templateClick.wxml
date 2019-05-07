@@ -1,0 +1,7 @@
+<template name="A">
+    <text bindtap='handleTap'>template name:{{name}}</text>
+</template>
+
+<template name="B">
+    <text>template name:{{name}} {{msg}}</text>
+</template>textte

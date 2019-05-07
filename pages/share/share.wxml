@@ -1,0 +1,4 @@
+<!--pages/share/share.wxml-->
+<block wx:for="{{femaleList}}" wx:key="">
+    {{item.femalename}}
+</block>

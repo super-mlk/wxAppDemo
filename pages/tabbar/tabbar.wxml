@@ -1,0 +1,3 @@
+<view>
+    <tabbar isIndex="true"></tabbar>
+</view>

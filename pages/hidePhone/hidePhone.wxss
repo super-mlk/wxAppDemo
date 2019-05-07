@@ -1,0 +1,4 @@
+/* pages/hidePhone/hidePhone.wxss */
+.phone{
+    border-bottom: 2rpx solid #c0c0c0;
+}

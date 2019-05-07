@@ -1,0 +1,25 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/navbar-brand/navbar-brand",
+        "pages/share/share",
+        "pages/fzwxRequest/fzwxRequest",
+        "pages/card/card",
+        "pages/tabbar/tabbar",
+        "pages/hoverdel/hoverdel",
+        "pages/hidePhone/hidePhone",
+        "pages/pay/pay",
+        "pages/modal/modal",
+        "pages/side/side"
+
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "WeChat",
+        "navigationBarTextStyle": "black"
+    },
+    "sitemapLocation": "sitemap.json"
+    
+}

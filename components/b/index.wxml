@@ -1,0 +1,1 @@
+<button bindtap="onTap">点击这个按钮将触发“myevent”事件</button>

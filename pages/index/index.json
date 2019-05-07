@@ -1,0 +1,10 @@
+{
+    "window": {
+        "navigationStyle": "custom"
+    },
+    "usingComponents": {
+        "wrapdel": "/components/wrapDel/wrapDel",
+        "b": "/components/b/index",
+        "navigationBar": "/components/navigationBar/navigationBar"
+    }
+}

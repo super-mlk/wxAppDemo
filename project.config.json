@@ -1,0 +1,117 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false,
+		"checkInvalidKey": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.6.5",
+	"appid": "wx64159ac9f1f0fadb",
+	"projectname": "template",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 9,
+			"list": [
+				{
+					"id": -1,
+					"name": "自定义导航栏",
+					"pathName": "pages/navbar-brand/navbar-brand",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "超牛逼的分享",
+					"pathName": "pages/share/share",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "封装wx-request",
+					"pathName": "pages/fzwxRequest/fzwxRequest",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "卡片左右滑动特效",
+					"pathName": "pages/card/card",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "自定义tabbar组件",
+					"pathName": "pages/tabbar/tabbar",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "滑动删除",
+					"pathName": "pages/hoverdel/hoverdel",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "隐藏手机号和卡片",
+					"pathName": "pages/hidePhone/hidePhone",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "支付",
+					"pathName": "pages/pay/pay",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "动画弹窗",
+					"pathName": "pages/modal/modal",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "侧方弹出动画选择页面",
+					"pathName": "pages/side/side",
+					"scene": null
+				}
+			]
+		}
+	}
+}
