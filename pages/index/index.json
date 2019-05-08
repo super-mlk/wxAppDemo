@@ -5,6 +5,7 @@
     "usingComponents": {
         "wrapdel": "/components/wrapDel/wrapDel",
         "b": "/components/b/index",
-        "navigationBar": "/components/navigationBar/navigationBar"
+        "navigationBar": "/components/navigationBar/navigationBar",
+        "music":"/components/music/music"
     }
 }

@@ -52,7 +52,11 @@ Page({
     },
     onShow:function(){
         var that = this;
-        that.getConstructorList();
+        // that.getConstructorList();
+        that.selectComponent('#music-component').onShow()
+    },
+    onHide:function(){
+        that.selectComponent('#music-component').onHide()
     },
     getUserInfo: function (e) {
         console.log(e)

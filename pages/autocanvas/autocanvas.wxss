@@ -1,0 +1,5 @@
+/* pages/autocanvas/autocanvas.wxss */
+canvas {
+  width: 99%;
+  height: 600rpx;
+}

@@ -1,0 +1,1 @@
+<image class='music {{ rotate && musicClass }}' style="{{ musicStyle }}" src="{{icon}}" bindtap='_switch' ></image>

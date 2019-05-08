@@ -12,7 +12,8 @@
         "pages/pay/pay",
         "pages/modal/modal",
         "pages/side/side",
-        "pages/canvas/canvas"
+        "pages/canvas/canvas",
+        "pages/autocanvas/autocanvas"
 
     ],
     "window": {

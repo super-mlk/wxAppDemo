@@ -1,18 +1,23 @@
 <!--index.wxml-->
 <import src="/template/templateClick/templateClick.wxml"/>
 
-<view>
+<!-- 选择音乐 -->
+<music id="music-component"></music>
+
+<!-- <view>
     <template is="A" data="{{name}}" />
     <template is="B" data="{{name,msg}}" />
-</view>
+</view> -->
 
 <!-- 滑动删除 -->
 <!-- <wrapdel></wrapdel> -->
 
-<b bind:myevent="onMyevent"></b>
+<!-- <b bind:myevent="onMyevent"></b>
 
 <navigationBar bgColor="black">
     <view slot="content">
         <view class='txt'>Nav title</view>
     </view>
-</navigationBar>
+</navigationBar> -->
+
+
