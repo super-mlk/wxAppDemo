@@ -11,7 +11,8 @@
         "pages/hidePhone/hidePhone",
         "pages/pay/pay",
         "pages/modal/modal",
-        "pages/side/side"
+        "pages/side/side",
+        "pages/canvas/canvas"
 
     ],
     "window": {

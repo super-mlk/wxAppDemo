@@ -14,7 +14,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.5",
-	"appid": "wx64159ac9f1f0fadb",
+	"appid": "wxc3880418474667f6",
 	"projectname": "template",
 	"debugOptions": {
 		"hidedInDevtools": []
@@ -40,7 +40,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 9,
+			"current": 10,
 			"list": [
 				{
 					"id": -1,
@@ -109,6 +109,13 @@
 					"id": -1,
 					"name": "侧方弹出动画选择页面",
 					"pathName": "pages/side/side",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "canvas",
+					"pathName": "pages/canvas/canvas",
 					"scene": null
 				}
 			]

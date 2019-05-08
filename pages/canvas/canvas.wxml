@@ -1,0 +1,4 @@
+<canvas style="width: 300px; height: 200px;" canvas-id="firstCanvas" id="firstCanvas"></canvas>
+<button bindtap='export'>合成图片</button>
+<image src='{{canvasImg}}' class='canvasImg'></image>
+<button open-type='share'>分享</button>
