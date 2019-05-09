@@ -17,7 +17,8 @@
         "pages/textarea/textarea",
         "pages/circle/circle",
         "pages/movablefrom/movablefrom",
-        "pages/rotate/rotate"
+        "pages/rotate/rotate",
+        "pages/txv/txv"
     ],
     "window": {
         "backgroundTextStyle": "light",
@@ -25,6 +26,17 @@
         "navigationBarTitleText": "WeChat",
         "navigationBarTextStyle": "black"
     },
+    "networkTimeout": {
+        "request": 30000,
+        "connectSocket": 30000,
+        "uploadFile": 30000,
+        "downloadFile": 30000
+    },
+    "plugins": {
+        "tencentVideo": {
+            "version": "1.2.4",
+            "provider": "wxa75efa648b60994b"
+        }
+    },
     "sitemapLocation": "sitemap.json"
-    
 }

@@ -1,0 +1,21 @@
+<view hidden="{{tvphide}}">
+    <txv-video 
+        vid="{{vid}}" 
+        width="{{width}}"
+        height="{{height}}"
+        playerid="txv0" 
+        autoplay="{{autoplay}}"
+        controls="{{controls}}"
+
+        title="{{title}}"
+        defn="{{defn}}"
+
+        bindstatechange="onStateChange"
+        bindtimeupdate="onTimeUpdate"
+        showProgress="{{showProgress1}}"
+        show-progress="{{false}}"
+        bindfullscreenchange="onFullScreenChange">
+        // 支持slot，用于在video上显示UI
+        <cover-view class='txv-video-slot'>video slot</cover-view>
+    </txv-video>
+</view>
