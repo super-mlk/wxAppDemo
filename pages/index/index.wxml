@@ -1,9 +1,6 @@
 <!--index.wxml-->
-<import src="/template/templateClick/templateClick.wxml"/>
-
 <!-- 选择音乐 -->
 <music id="music-component"></music>
-
 <!-- <view>
     <template is="A" data="{{name}}" />
     <template is="B" data="{{name,msg}}" />

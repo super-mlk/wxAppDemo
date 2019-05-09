@@ -40,7 +40,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 11,
+			"current": 13,
 			"list": [
 				{
 					"id": -1,
@@ -123,6 +123,20 @@
 					"id": -1,
 					"name": "自动换行",
 					"pathName": "pages/autocanvas/autocanvas",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "textarea组价层级过高导致文字穿透浮层",
+					"pathName": "pages/textarea/textarea",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "裁剪图片成圆形",
+					"pathName": "pages/circle/circle",
 					"scene": null
 				}
 			]

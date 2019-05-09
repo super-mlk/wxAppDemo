@@ -13,8 +13,9 @@
         "pages/modal/modal",
         "pages/side/side",
         "pages/canvas/canvas",
-        "pages/autocanvas/autocanvas"
-
+        "pages/autocanvas/autocanvas",
+        "pages/textarea/textarea",
+        "pages/circle/circle"
     ],
     "window": {
         "backgroundTextStyle": "light",
