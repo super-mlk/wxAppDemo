@@ -18,7 +18,8 @@
         "pages/circle/circle",
         "pages/movablefrom/movablefrom",
         "pages/rotate/rotate",
-        "pages/txv/txv"
+        "pages/txv/txv",
+        "pages/imgMedia/imgMedia"
     ],
     "window": {
         "backgroundTextStyle": "light",

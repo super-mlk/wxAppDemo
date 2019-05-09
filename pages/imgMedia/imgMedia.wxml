@@ -1,0 +1,2 @@
+<!--pages/imgMedia/imgMedia.wxml-->
+<image class='image' id='image' src='{{imageUrl}}' mode='aspectFill' style='height:{{height}}'></image>
