@@ -40,7 +40,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 14,
+			"current": 15,
 			"list": [
 				{
 					"id": -1,
@@ -144,6 +144,13 @@
 					"id": -1,
 					"name": "拖拽表单",
 					"pathName": "pages/movablefrom/movablefrom",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "旋转木马",
+					"pathName": "pages/rotate/rotate",
 					"scene": null
 				}
 			]
