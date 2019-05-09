@@ -15,7 +15,8 @@
         "pages/canvas/canvas",
         "pages/autocanvas/autocanvas",
         "pages/textarea/textarea",
-        "pages/circle/circle"
+        "pages/circle/circle",
+        "pages/movablefrom/movablefrom"
     ],
     "window": {
         "backgroundTextStyle": "light",
