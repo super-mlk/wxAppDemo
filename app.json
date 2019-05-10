@@ -19,7 +19,8 @@
         "pages/movablefrom/movablefrom",
         "pages/rotate/rotate",
         "pages/txv/txv",
-        "pages/imgMedia/imgMedia"
+        "pages/imgMedia/imgMedia",
+        "pages/progress/progress"
     ],
     "window": {
         "backgroundTextStyle": "light",
